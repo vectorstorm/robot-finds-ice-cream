@@ -1,0 +1,13 @@
+Title "Tutorial - Level 6 - Robot"
+Desc "Your robot won't enter a square twice."  
+DescTwo "Press 'alt' or 'option' to restart the level!"
+
+Dims 4 4
+Lvl 1 1 1 1
+Lvl 1 1 1 1
+Lvl 0 1 1 1
+Lvl 1 1 1 1
+
+Player 1 1
+Robot 0 1
+Vending 3 3

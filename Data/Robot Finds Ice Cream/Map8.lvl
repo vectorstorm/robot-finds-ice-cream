@@ -1,0 +1,17 @@
+Title "Level 9"
+Desc "Expanse"
+
+Dims 10 7
+Lvl 1 1 0 0 0 0 0 0 0 0
+Lvl 1 1 1 1 1 1 0 0 1 1
+Lvl 1 1 1 1 1 1 1 1 1 1
+Lvl 1 1 1 1 1 1 1 1 1 1
+Lvl 1 1 1 0 1 1 1 1 0 1
+Lvl 0 1 1 0 1 1 1 0 0 0
+Lvl 0 0 0 0 0 1 1 1 1 0
+
+Player 9 2
+Robot 8 2
+Vending 8 6
+Vending 5 2
+Vending 2 4

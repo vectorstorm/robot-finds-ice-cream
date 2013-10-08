@@ -1,0 +1,14 @@
+Title "End of Game" 
+Desc "Sorry, I only had a short amount of time to make levels!"
+DescTwo "Hope you enjoyed!"
+
+Dims 6 6
+Lvl 1 1 1 1 1 1
+Lvl 1 0 0 0 0 1
+Lvl 1 0 1 1 0 1
+Lvl 1 0 1 1 0 1
+Lvl 1 0 0 0 0 1
+Lvl 1 1 1 1 1 1
+
+Player 2 3
+Vending 3 2

@@ -1,0 +1,20 @@
+Title "Level 10"
+Desc "The Last Level"
+
+Dims 10 10
+Lvl 0 0 0 1 1 0 0 1 1 1
+Lvl 0 1 1 1 1 1 0 1 0 1
+Lvl 1 1 1 1 1 1 1 1 1 0
+Lvl 0 0 0 1 0 0 0 1 1 0
+Lvl 0 0 0 1 0 0 0 1 0 0
+Lvl 0 0 0 1 0 0 0 1 0 0
+Lvl 0 0 0 1 0 0 0 1 0 0
+Lvl 1 1 1 1 1 1 1 1 0 0
+Lvl 1 1 1 1 1 1 1 1 1 1
+Lvl 0 1 1 1 1 1 0 1 1 1
+
+Player 1 1
+Robot 2 1
+Vending 0 2
+Vending 7 7
+Vending 3 9

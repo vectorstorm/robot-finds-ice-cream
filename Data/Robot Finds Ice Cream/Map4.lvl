@@ -1,0 +1,13 @@
+Title "Tutorial - Level 5 - Robot"
+Desc "You can also shove your robot, to make him move"
+DescTwo "as far as possible away from you!"
+
+Dims 4 4
+Lvl 0 0 0 0
+Lvl 1 1 1 1
+Lvl 0 0 1 1
+Lvl 0 0 1 1
+
+Player 0 1
+Robot 1 1
+Vending 3 1

@@ -1,0 +1,11 @@
+Title "Tutorial - Level 1" 
+Desc "Each level contains vending machines."  
+DescTwo "Visit each to complete the level!"
+
+Dims 3 3
+Lvl 1 1 1
+Lvl 1 1 1
+Lvl 1 1 1
+
+Player 0 0
+Vending 2 2

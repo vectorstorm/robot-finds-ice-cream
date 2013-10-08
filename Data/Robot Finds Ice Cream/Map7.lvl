@@ -1,0 +1,16 @@
+Title "Level 8"
+Desc "X Marks the Spot"
+
+Dims 7 7
+Lvl 1 1 1 0 1 1 1
+Lvl 1 1 1 1 1 1 1 
+Lvl 0 0 1 1 1 0 0
+Lvl 0 0 1 1 1 0 0
+Lvl 0 0 1 1 1 0 0
+Lvl 1 1 1 1 1 1 1
+Lvl 1 1 1 0 1 1 1
+
+Player 1 0
+Robot 0 0
+Vending 2 6
+Vending 4 2

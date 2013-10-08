@@ -1,0 +1,17 @@
+Title "Level 7"
+Desc "Donut Hole"
+
+Dims 7 7
+Lvl 0 0 0 1 0 0 0
+Lvl 0 1 1 1 1 1 0 
+Lvl 1 1 1 1 1 0 1
+Lvl 1 1 1 0 1 1 1
+Lvl 1 1 1 1 1 1 1
+Lvl 0 1 1 1 1 1 0
+Lvl 0 0 0 1 0 0 0
+
+Player 1 1
+Robot 2 1
+Vending 2 5
+Vending 5 5
+Vending 4 3

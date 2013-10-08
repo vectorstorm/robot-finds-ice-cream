@@ -1,0 +1,84 @@
+-- Music --
+
+
+
+Fab Cushion
+Copyright 2003 by Coconut Monkeyrocket and Martinibomb
+http://www.archive.org/details/csr016
+
+Licensed under the Creative Commons
+Attribution-NonCommercial 1.0 license.
+
+
+
+-- Sound Effects --
+
+
+Register.ogg
+Derived from Op_Cls_1.WAV
+Copyright 2007 by kjackson
+http://www.freesound.org/samplesViewSingle.php?id=32629
+
+Licensed under the Creative Commons 
+Sampling Plus 1.0 license.
+
+
+
+
+-- Data --
+
+All other data files are Copyright 2008 by Trevor Powell.
+License to modify, distribute, etc. are granted under the
+Creative Commons Attribution-NonCommercial-ShareAlike 2.0
+license.
+
+
+
+
+
+-- Inspiration --
+
+Game inspired by a passage from
+Harry Potter and the Sorcerer's Stone
+Copyright 1997 By J.K. Rowling
+Published by Scholastic Press
+
+
+
+
+-- Code --
+
+All code written by Trevor Powell, and released under the GPLv3.
+
+
+
+
+
+
+Copyright 2008
+
+
+
+
+
+No vectors were fed fattening food in the making of this game.
+
+
+
+
+
+Robot Finds Ice-Cream
+is a "Game in a Week; project.
+Number 5 in the series.
+
+
+
+
+Find more free games at:
+http://www.vectorstorm.org/
+
+
+
+
+
+Thank you for playing.

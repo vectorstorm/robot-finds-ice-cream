@@ -1,0 +1,12 @@
+Title "Tutorial - Level 4 - Robot"
+Desc "You can only pull your robot in a straight line!"
+
+Dims 4 4
+Lvl 0 0 0 0
+Lvl 1 1 1 1
+Lvl 0 0 1 1
+Lvl 0 0 1 0
+
+Player 1 1
+Robot 0 1
+Vending 2 2

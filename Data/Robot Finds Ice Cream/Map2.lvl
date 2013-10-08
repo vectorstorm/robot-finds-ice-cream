@@ -1,0 +1,12 @@
+Title "Tutorial - Level 3 - Robot"
+Desc "Your robot has your cash,"
+DescTwo "so pull him to the vending machine!"
+
+Dims 4 3
+Lvl 0 0 0 0
+Lvl 1 1 1 1
+Lvl 0 0 0 0
+
+Player 1 1
+Robot 0 1
+Vending 2 1

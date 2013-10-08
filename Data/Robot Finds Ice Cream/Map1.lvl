@@ -1,0 +1,11 @@
+Title "Tutorial - Level 2"
+Desc "Some levels have more than one vending machine."
+
+Dims 4 3
+Lvl 0 0 1 0
+Lvl 1 1 1 1
+Lvl 0 1 1 1
+
+Player 0 1
+Vending 2 0
+Vending 1 2
